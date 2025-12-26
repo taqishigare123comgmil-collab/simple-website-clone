@@ -125,7 +125,7 @@ header{
 .inner-container .img{
     width: 50%;
     height: 100%;
-    background-image: url(mysecond.png);
+    background-image: url(/images/mysecond.png);
     background-size: cover;
     
 }
@@ -167,7 +167,7 @@ header{
 .box{
     width: 40%;
     height: 100%;
-    background-image: url(my.png);
+    background-image: url(/images/my.png);
     background-repeat: no-repeat;
 }
 @media (max-width : 820px) {
